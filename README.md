@@ -21,5 +21,5 @@
 ## Policy on how the developer key and access tokens will be stored
 
 * The developer key will be stored securely server side.
-* The access tokens will be encrypted stored in our database.
+* The access tokens will be encrypted and stored in our database.
 
