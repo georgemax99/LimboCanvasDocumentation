@@ -8,11 +8,11 @@
 
 ## Redirect URL
 
-* redirect.limbo.tech/canvas_oauth_complete
+* http://redirect.limbo.tech/canvas_oauth_complete
 
 ## Icon URL
 
-* https://drive.google.com/file/d/1atqwvzn4LAp40PtwXmlBKXu_XS_7mXGz/view?usp=sharing
+* http://drive.google.com/file/d/1atqwvzn4LAp40PtwXmlBKXu_XS_7mXGz/view?usp=sharing
 
 ## Contact Email
 
