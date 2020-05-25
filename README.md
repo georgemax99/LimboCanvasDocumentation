@@ -12,7 +12,7 @@
 
 ## Icon URL
 
-* (Not yet complete)
+* https://drive.google.com/file/d/1atqwvzn4LAp40PtwXmlBKXu_XS_7mXGz/view?usp=sharing
 
 ## Contact Email
 
